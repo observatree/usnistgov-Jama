@@ -1,0 +1,6 @@
+# Maven build products
+target/
+
+# Test execution turds
+JamaTestMatrix.out
+TMPMATRIX.serial
