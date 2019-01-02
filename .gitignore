@@ -1,6 +1,12 @@
-# Maven build products
+# Emacs turds
+**/*.*~
+# Finder turds
+**/.DS_Store
+# Maven build directory
 target/
-
+# IntelliJ files
+.idea/
+jama.iml
 # Test execution turds
 JamaTestMatrix.out
 TMPMATRIX.serial
